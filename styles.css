@@ -116,6 +116,10 @@ p.videos{
     margin-left: 28%;
 }
 
+p.indent{
+    margin-left: 28%;
+}
+
 /*links*/
 a.headinglink:link{
    color: #A8D08D;
